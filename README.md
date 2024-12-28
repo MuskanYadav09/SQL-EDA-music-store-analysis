@@ -1,5 +1,5 @@
 # Music_Store_Analysis
-This project analyzes a music store's database using MySQL. The analysis was completed by following Rishabh Mishra's YouTube tutorial. The project includes three sets of questions categorized as EASY, MODERATE, and ADVANCE. Each set is designed to enhance SQL querying skills by solving practical problems.
+This project analyzes a music store's database using MySQL. The project includes three sets of questions categorized as EASY, MODERATE, and ADVANCE. Each set is designed to enhance SQL querying skills by solving practical problems.
 
 ## Question Sets
 ### [Easy Questions](https://github.com/MuskanYadav09/SQL-EDA-music-store-analysis/blob/main/ms_db_easy_queries.sql)
